@@ -1,3 +1,3 @@
 # Cornucopia
 
-Crawler em LISP para extrair preços de sites de supermercados.
+Crawler em Python para extrair preços de sites de supermercados.
