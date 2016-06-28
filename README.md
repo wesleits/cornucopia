@@ -1,3 +1,3 @@
 # Cornucopia
 
-Crawler em Python para extrair preços de sites de supermercados.
+Crawler em JAVA que extrai preços de sites de supermercados.
